@@ -236,3 +236,6 @@ We can now combine IP SLA with object tracking:
 R1(config)#no track 1 
 R1(config)#track 1 ip sla 1
 ```
+
+
+references : https://content.cisco.com/chapter.sjs?uri=/searchable/chapter/content/en/us/td/docs/ios-xml/ios/ipapp_fhrp/configuration/xe-16/fhp-xe-16-book/fhp-hsrp.html.xml
